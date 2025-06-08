@@ -1,0 +1,1 @@
+streamlit run stockwatch.py
